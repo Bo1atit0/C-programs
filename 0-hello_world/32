@@ -1,0 +1,8 @@
+In file included from /nix/store/4pqv2mwdn88h7xvsm7a5zplrd8sxzvw0-glibc-2.35-163-dev/include/features.h:514,
+                 from /nix/store/4pqv2mwdn88h7xvsm7a5zplrd8sxzvw0-glibc-2.35-163-dev/include/bits/libc-header-start.h:33,
+                 from /nix/store/4pqv2mwdn88h7xvsm7a5zplrd8sxzvw0-glibc-2.35-163-dev/include/stdio.h:27,
+                 from size.c:1:
+/nix/store/4pqv2mwdn88h7xvsm7a5zplrd8sxzvw0-glibc-2.35-163-dev/include/gnu/stubs.h:7:11: fatal error: gnu/stubs-32.h: No such file or directory
+    7 | # include <gnu/stubs-32.h>
+      |           ^~~~~~~~~~~~~~~~
+compilation terminated.
