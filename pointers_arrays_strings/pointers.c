@@ -65,4 +65,24 @@ printf("Address of char c = %p\n", &c);
 printf("Address of int n = %p\n", &n);
 
 
+//Void pointers
+
+printf("VOID POINTERS\n");
+
+int aa = 5;
+float bb = 4;
+char cc = 'o';
+void *vp;
+
+vp = &aa;
+printf("dereferenced vp = %d\n", *(int*)vp);
+
+vp = &bb;
+printf("dereferenced vp = %f\n", *(float*)vp);
+
+vp = &cc;
+printf("dereferenced vp = %c\n", *(char*)vp);
+
+
+
 }

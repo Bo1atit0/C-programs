@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-int main(int argc, char *argv[]) {
-  char *name = argv[1];
+int main()
+ {
+  char name;
   int test1;
   int test2;
 
