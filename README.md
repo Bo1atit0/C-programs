@@ -19,6 +19,6 @@ Project Description.
 
 ## Authors
 Authors page  
-[Shorungbe Bolatito] | [@shorungbebolatito@gmail.com]
+Shorungbe Bolatito | @shorungbebolatito@gmail.com
 
 ## Contacts
