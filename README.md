@@ -23,4 +23,4 @@ Shorungbe Bolatito | <shorungbebolatito@gmail.com>
 
 ## Contacts
 
-(![Alt text](image.png)
+![Alt text](image.png) (https://twitter.com/home)
