@@ -22,3 +22,5 @@ Authors page
 Shorungbe Bolatito | <shorungbebolatito@gmail.com>
 
 ## Contacts
+
+(![Alt text](image.png))
