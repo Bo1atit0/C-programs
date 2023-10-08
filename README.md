@@ -19,6 +19,6 @@ Project Description.
 
 ## Authors
 Authors page
-[Shorungbe Bolatito](133297243.jpg)
+[Shorungbe Bolatito] | [@shorungbebolatito@gmail.com]
 
 ## Contacts
