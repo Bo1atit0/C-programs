@@ -18,7 +18,7 @@ Project Description.
 ## Installation
 
 ## Authors
-Authors page
+Authors page  
 [Shorungbe Bolatito] | [@shorungbebolatito@gmail.com]
 
 ## Contacts
