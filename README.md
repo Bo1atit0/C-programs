@@ -19,5 +19,6 @@ Project Description.
 
 ## Authors
 Authors page
+[Shorungbe Bolatito](https://avatars.githubusercontent.com/u/133297243?v=4)
 
 ## Contacts
