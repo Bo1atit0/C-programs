@@ -19,9 +19,9 @@ Project Description.
 
 ## Authors
 
-[![bo1atit0](https://github.com/bo1atit0.png?size=100)](https://github.com/bo1atit0) | [![aglago](https://github.com/jennycode7.png?size=100)](https://github.com/)
+[![bo1atit0](https://github.com/bo1atit0.png?size=100)](https://github.com/bo1atit0) | [![jennycode7](https://github.com/jennycode7.png?size=100)](https://github.com/jennycode7)
 ----|----
-[jennycode7](https://github.com/) | [aglago](https://github.com/
+[bo1atit0](https://github.com/bo1atit0) | [jennycode7](https://github.com/jennycode7)
 
 ## Contacts
 
