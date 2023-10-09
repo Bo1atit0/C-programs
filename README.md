@@ -18,12 +18,14 @@ Project Description.
 ## Installation
 
 ## Authors
-Authors page  
-Shorungbe Bolatito | <shorungbebolatito@gmail.com>
+
+[![bo1atit0](https://github.com/bo1atit0.png?size=100)](https://github.com/bo1atit0) | [![aglago](https://github.com/jennycode7.png?size=100)](https://github.com/)
+----|----
+[jennycode7](https://github.com/) | [aglago](https://github.com/
 
 ## Contacts
 
-[bolatito](https://github.com/bolatito) | [jennycode7](https://github.com/jennycode7)
+[bo1atit0](https://github.com/bolatito) | [jennycode7](https://github.com/jennycode7)
 ----|----
 [![Email](https://img.shields.io/badge/Email-D14836?style=social&logo=gmail&logoColor=white)](mailto:shorungbebolatito@gmail.com) | [![Email](https://img.shields.io/badge/Email-D14836?style=social&logo=gmail&logoColor=white)](mailto:)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=twitter)](https://twitter.com/shorungbe38308) | [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=twitter)](https://twitter.com/)
